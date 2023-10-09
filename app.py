@@ -12,7 +12,7 @@ import bcrypt
 app=Flask(__name__)
 openai.api_key="OpenAi API key"
 app.config["SECRET_KEY"]="mysecretkey"
-app.config["MONGO_URI"] = "Mongo_URI"
+app.config["MONGO_URI"] = "mongodb+srv://Nasar_Ali:Password@nasarali.sjrfgg4.mongodb.net/Games"
 app.config["SERVER_NAME"] = "localhost:5000"
 mongo=PyMongo(app)
 oauth = OAuth(app)

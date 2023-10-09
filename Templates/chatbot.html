@@ -36,31 +36,3 @@
 </body>
 
 </html>
-
-<!-- micButton.addEventListener("click", () => {
-  recognition.lang = "en-US";
-
-  if (!isListening) {
-    recognition.start();
-    micButton.classList.add("listening");
-    isListening = true;
-  } else {
-    recognition.stop();
-    micButton.classList.remove("listening");
-    isListening = false;
-  }
-
-  recognition.onstart = function () {
-    // Speech recognition has started, add the 'listening' class
-    micButton.classList.add("listening");
-  };
-
-  recognition.onresult = function (event) {
-    const speechToText = event.results[0][0].transcript;
-    chatInput.value = speechToText;
-  };
-  recognition.onend = function () {
-    micButton.classList.remove("listening");
-    isListening = false;
-  };
-}); -->
