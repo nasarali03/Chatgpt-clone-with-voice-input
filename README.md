@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Chatgpt Clone With Voice Input
 
 ![enter image description here](/static/images/chatgpt.jpg)
@@ -83,8 +82,8 @@ The ChatGPT Clone with Voice Input should now be running locally. You can access
 
 Please replace your-username with your actual GitHub username or the repository URL as needed. Additionally, ensure that you have Python and Git installed on your system before following these steps.
 
-This setup allows you to run the ChatGPT clone with voice input locally and have it interact with the OpenAI GPT-3 API for generating responses.
-=======
+# This setup allows you to run the ChatGPT clone with voice input locally and have it interact with the OpenAI GPT-3 API for generating responses.
+
 ## Blog Hub
 
 ![enter image description here](/static/images/chatgpt.jpg)
@@ -170,4 +169,3 @@ The ChatGPT Clone with Voice Input should now be running locally. You can access
 Please replace your-username with your actual GitHub username or the repository URL as needed. Additionally, ensure that you have Python and Git installed on your system before following these steps.
 
 This setup allows you to run the ChatGPT clone with voice input locally and have it interact with the OpenAI GPT-3 API for generating responses.
->>>>>>> 6dc876e05c8f277bfe0d34eddd7e40cbdac35296
